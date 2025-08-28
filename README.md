@@ -1,4 +1,7 @@
 # Pratice-Demo1
 This is done by mee.
 <br>
-Author -sadaqath safi
+Author -SADAQATH SAFI MOHAMMAD
+email:sadaqathsafi@gmail.com
+
+
